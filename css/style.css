@@ -81,8 +81,9 @@ td{
   min-width: 125px;
   padding: 10px;
   background-color: #7e0820;
-  text-align: center;
   text-transform: uppercase;
+  vertical-align: middle;
+  text-align: center;
 
 }
 /*Req 6c*/
